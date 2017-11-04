@@ -1,0 +1,24 @@
+{
+  "name": "matrix-vector-multiplication",
+  "version": "1.0.0",
+  "description": "Matrix vector multiplication using Napa.js",
+  "main": "main.js",
+  "dependencies": {
+    "napajs": "0.1.5"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dumindux/matrix-vector-multiplication.git"
+  },
+  "keywords": [
+    "Napa.js",
+    "multithreading"
+  ],
+  "author": "Dumindu Karunathilaka <dumindukarunathilaka@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dumindux/matrix-vector-multiplication/issues"
+  },
+  "homepage": "https://github.com/dumindux/matrix-vector-multiplication#readme"
+}
